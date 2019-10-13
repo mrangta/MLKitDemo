@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MLKit</string>
+    <string name="detect">detect</string>
+    <string name="upload">upload</string>
+    <string name="text">Text:</string>
+    <string name="showText">Text will be shown here!!</string>
+</resources>
